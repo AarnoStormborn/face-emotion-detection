@@ -1,0 +1,5 @@
+rmn==3.1.2
+ultralytics==8.0.229
+Flask==3.0.0
+Flask-RESTful==0.3.10
+gunicorn==21.2.0
